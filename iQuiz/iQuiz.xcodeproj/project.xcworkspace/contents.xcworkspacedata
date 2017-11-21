@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:iQuiz"
+      name = "iQuiz">
+      <FileRef
+         location = "group:ViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:QuestionViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FinishViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:Assets.xcassets"
+         name = "Assets.xcassets">
+         <Group
+            location = "group:heart.imageset"
+            name = "heart.imageset">
+            <FileRef
+               location = "group:heart.png">
+            </FileRef>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:AppIcon.appiconset"
+            name = "AppIcon.appiconset">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:planet.imageset"
+            name = "planet.imageset">
+            <FileRef
+               location = "group:planet.png">
+            </FileRef>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:comic.imageset"
+            name = "comic.imageset">
+            <FileRef
+               location = "group:comic.png">
+            </FileRef>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:AnswerViewController.swift">
+      </FileRef>
+      <Group
+         location = "group:Base.lproj"
+         name = "Base.lproj">
+         <FileRef
+            location = "group:LaunchScreen.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:Main.storyboard">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CustomTableViewCell.swift">
+      </FileRef>
+      <FileRef
+         location = "group:AppDelegate.swift">
+      </FileRef>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
